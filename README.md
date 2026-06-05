@@ -8,7 +8,7 @@ Welcome to my personal portfolio repository. This portfolio showcases my skills,
 
 ## 🚀 About Me
 
-I am a Computer Science Engineering graduate with a strong interest in Software Development, Full Stack Web Development, Artificial Intelligence, and Data Analytics.
+I am a Computer Science & Engineering graduate with a strong interest in Software Development, Full Stack Web Development, Artificial Intelligence, and Data Analytics.
 
 I enjoy transforming ideas into real-world applications through clean code, creative design, and problem-solving. My goal is to build impactful digital solutions that improve user experiences and solve meaningful challenges.
 
